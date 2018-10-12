@@ -30,4 +30,6 @@
 *.exe
 *.out
 *.app
-connect_four
+
+.DS_Store
+quickRoutes
