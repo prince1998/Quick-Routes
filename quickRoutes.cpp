@@ -76,6 +76,7 @@ int dijsktra2(int source)
         cout<<i<<" : "<<dist[i]<<"\t";
     }
     cout<<"\n";
+return 0;
 }
 int dijsktra(int source,int target)
 {
@@ -187,7 +188,7 @@ int main()
         cin>>target;
         co=dijsktra(source,target);
     }
-sss
+
     else{
 
         cout<<"\nEnter The Source:";
